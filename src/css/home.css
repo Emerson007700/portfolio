@@ -23,7 +23,7 @@
 .home .img-home .img-box img {
     width: 100%;
     border-radius: 50%;
-    border: 20px solid transparent;
+    border: 5px solid transparent;
 }
 
 .home .texto-home p {
