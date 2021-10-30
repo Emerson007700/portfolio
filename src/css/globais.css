@@ -12,6 +12,18 @@ body{
   font-family: var(--fonte-primaria);
   font-size: var(--fonte-normal);
 }
+
+.container {
+  max-width: 1140px;
+  margin: auto;
+}
 .row{
   display: flex;
+}
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.alinhar-itens-no-centro {
+  align-items: center;
 }
