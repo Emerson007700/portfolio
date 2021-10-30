@@ -15,3 +15,6 @@
     --fonte-normal:1.6rem;
 
 }
+:root{
+    --mobile-padding: 30px;
+}
